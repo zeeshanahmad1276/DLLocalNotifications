@@ -12,6 +12,8 @@ import UserNotifications
 
 @available(iOS 10.0, *)
 public class DLCategory {
+    
+    let x = 10
 
     // Holds the actions you want available for this category type
     private var actions: [UNNotificationAction]?
